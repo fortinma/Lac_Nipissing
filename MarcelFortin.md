@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Marcel Fortin 
+title: Marcel A. Fortin 
 permalink: /mfortin/
 ---
 
